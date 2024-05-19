@@ -11,6 +11,19 @@ CMake (version >=3.10)
 MinGW (for Windows)
 
 Googletests
+# Файлы
+
+solution.h - header file решения
+
+solution.cpp - source file решения
+
+main.cpp - файл для запуска решения
+
+input.txt - файл с шаблонным вводом
+
+g_tests.cpp - файл с Google тестами
+
+CMakeLists.txt - файл для сборки
 
 # Инструкция по установке
 
