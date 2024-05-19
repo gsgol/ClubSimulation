@@ -7,7 +7,9 @@
 
 # Системные требования
 CMake (version >=3.10)
+
 MinGW (for Windows)
+
 Googletests
 
 # Инструкция по установке
