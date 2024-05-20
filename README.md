@@ -54,14 +54,14 @@ cmake ..
 ```
 make
 ```
-после этого должны появиться 2 .exe файла ClubSimulation.exe и runTests.exe
+после этого должны появиться 2 исполняемых файла ClubSimulationи runTests
 для запуска приложения с шаблонным вводом выполнить команду 
 ```
-.\ClubSimulation.exe ../input.txt
+./ClubSimulation ../input.txt
 ```
 для запуска тестов выполнить комнаду 
 ```
-.\runTests.exe
+./runTests
 ```
 ### Windows
 выполнить следующую команду
